@@ -1,0 +1,16 @@
+# Environment and IDE
+.env
+.idea/
+
+# Databases and caches
+chroma_songs_db/
+results/
+temp/
+.cache/
+
+# Data files
+*.csv
+*.txt
+
+# ignore local dashboard/testing scripts
+gradio-dashboard.py   
